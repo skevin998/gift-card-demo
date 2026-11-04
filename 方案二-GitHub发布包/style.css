@@ -135,3 +135,7 @@
 /* Align titles and search controls across the card-library columns. */
 .library-layout .groups-title,.library-layout .library-title{height:36px;min-height:36px;display:flex;align-items:center;margin:0 0 20px;padding:0}
 .library-layout .groups>.input,.library-layout .library-search>.input{display:block;height:36px;margin:0}
+
+.card-list .list-toolbar{justify-content:space-between}
+.query.store-query{grid-template-columns:minmax(180px,1.2fr) minmax(160px,1fr) minmax(160px,1fr) minmax(180px,.8fr)}
+@media(max-width:1100px){.query.store-query{grid-template-columns:repeat(2,minmax(180px,1fr))}}
