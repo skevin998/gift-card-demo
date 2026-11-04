@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 13</title>
+    <defs>
+        <linearGradient x1="1.61621105%" y1="-7.00130437%" x2="76.5778735%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFC70F" offset="0%"></stop>
+            <stop stop-color="#F2BA01" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="AI结算单" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="上传结算单-选择文件备份-3" transform="translate(-268, -583)">
+            <g id="编组-13" transform="translate(268, 583)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="28" height="28"></rect>
+                <g id="编组-12" transform="translate(3.5, 1.75)">
+                    <path d="M2.625,0 L14.875,0 L14.875,0 L21,6.125 L21,21.875 C21,23.3247475 19.8247475,24.5 18.375,24.5 L2.625,24.5 C1.17525253,24.5 8.87714298e-17,23.3247475 0,21.875 L0,2.625 C-1.7754286e-16,1.17525253 1.17525253,1.7754286e-16 2.625,0 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                    <path d="M14.875,0 L21,6.125 L16.625,6.125 C15.6585017,6.125 14.875,5.34149831 14.875,4.375 L14.875,0 L14.875,0 Z" id="矩形" fill="#D09404"></path>
+                    <path d="M3.28125,20.125 L17.71875,20.125 L17.71875,11.5562184 C17.71875,11.3145939 17.5228746,11.1187184 17.28125,11.1187184 C17.1652178,11.1187184 17.0539379,11.1648121 16.9718908,11.2468592 L12.1041667,16.1145833 L12.1041667,16.1145833 L9.24626995,13.2566866 C9.07541558,13.0858322 8.7984059,13.0858322 8.62755152,13.2566866 C8.61472393,13.2695142 8.60270661,13.2831272 8.59156914,13.2974468 L3.28125,20.125 L3.28125,20.125 Z" id="路径-2" fill="#FFFFFF"></path>
+                    <circle id="椭圆形" fill="#FFFFFF" cx="6.125" cy="8.75" r="1.75"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
